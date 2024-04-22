@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/resources/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/resources/lib" recursive="false" />
+  </library>
+</component>
